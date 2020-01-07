@@ -10,11 +10,14 @@
 
 ## 002 
 
+循环播放: motorcycle passing <br/>
+
 角色: <br/> 
 &emsp;&emsp;添加 机场, 大海, 高山 <br/>
 &emsp;&emsp;添加 灯光角色使飞机更逼真 <br/>
 &emsp;&emsp;添加 1-Glow, 并且添加1, 2, 3 三个造型 用于计时 <br/>
 &emsp;&emsp;添加 帆船角色 <br/>
+
 
 
 **注意: 使灯光保持面向飞机方向 并且 循环里一直移动到飞机并且面向飞机方向**<br/><br>
